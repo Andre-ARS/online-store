@@ -1,7 +1,7 @@
 # Projeto Online Store
 
 ## Contexto
-Este projeto trata-se de um e-commerce que utilizando a API do Mercado Livre. Nessa loja o usuário é capaz de pesquisar e filtrar itens, adicionar e remover itens do carrinho, fechar compras ou adicionar avaliações a produtos especificos. Projeto feito em react utilizando componentes de classe.   
+Este projeto foi um projeto feito em grupo com: [Diogo Pantaleão](https://github.com/ogoiddev), [Caleb Lima](https://github.com/jovemcleb) e [Wendril Costa](https://github.com/Wendril-Costa). Trata-se de um e-commerce que utiliza a API do Mercado Livre. Nessa loja o usuário é capaz de pesquisar e filtrar itens, adicionar e remover itens do carrinho, fechar compras ou adicionar avaliações a produtos especificos. Projeto feito em react utilizando componentes de classe.   
 
 ## Tecnologias usadas
 
